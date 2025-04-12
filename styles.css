@@ -215,7 +215,8 @@ p {
 
 #about {
     text-align: center;
-    padding: 60px 0;
+    padding: 80px 20px;
+    background: #0f0f0f;
 }
 
 .about-container {
@@ -223,9 +224,10 @@ p {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
-    gap: 20px;
+    gap: 40px;
+    flex-wrap: wrap;
 }
 
 .about-container img {
@@ -234,21 +236,47 @@ p {
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid #fbbc05;
+    transition: transform 0.3s ease;
 }
 
-.about-container .about-text {
+.about-container img:hover {
+    transform: scale(1.05);
+}
+
+.about-text {
+    max-width: 500px;
     text-align: left;
 }
 
-.about-container .about-right .name {
-    font-size: 57px;
-    color: white;
+.about-text .name {
+    font-size: 48px;
+    font-weight: bold;
+    color: #ffffff;
     margin-bottom: 10px;
 }
 
-.about-container p {
+.about-text p {
     font-size: 18px;
-    color: white;
     line-height: 1.6;
-    max-width: 500px;
+    color: #e0e0e0;
+}
+
+@media (max-width: 768px) {
+    .about-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .about-text .name {
+        font-size: 36px;
+    }
+
+    .about-container img {
+        width: 200px;
+        height: 200px;
+    }
 }
