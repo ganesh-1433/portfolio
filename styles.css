@@ -248,7 +248,7 @@ p {
     text-align: left;
 }
 
-.about-text .name {
+.about-text .about-right .name {
     font-size: 64px;
     font-weight: bold;
     color: #ffffff;
