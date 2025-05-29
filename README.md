@@ -6,7 +6,7 @@ My journey into Data Science began during high school when I first explored Pyth
 
 ### 📄 Resume
 
-You can view my resume here: [View My Resume](https://drive.google.com/file/d/1i9J0e6ZxkYxvQnX5N1yZ1Y1Z1Y1Z1Y1/view)
+You can view my resume here: [View My Resume](https://drive.google.com/file/d/1DdOdDmVFqRthTtwPZd37DFkJqdwJGTJ9/view?usp=sharing)
 
 ### 💼 Projects
 
@@ -65,7 +65,7 @@ Morse Code Trainer is a Python-based interactive learning tool designed to teach
 ### 📬 Contact Me
 
 * **Phone:** +91-8828826211
-* **Email:** [work.ganeshpawar030@gmail.com](mailto:work.ganeshpawar03@gmail.com)
+* **Email:** [work.ganeshpawar03@gmail.com](mailto:work.ganeshpawar03@gmail.com)
 * **LinkedIn:** [ganesh-pawar1433](https://www.linkedin.com/in/ganesh-pawar1433/)
 * **GitHub:** [ganesh-1433](https://github.com/ganesh-1433)
 * **Instagram:** [ganesh_p1433](https://www.instagram.com/ganesh_p1433/)
