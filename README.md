@@ -60,6 +60,7 @@ Morse Code Trainer is a Python-based interactive learning tool designed to teach
 #### Databases
 
 * MySQL
+* PostgreSQL
 * MongoDB
 * Oracle
 * SQLite
